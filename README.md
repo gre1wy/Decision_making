@@ -1,4 +1,4 @@
-# Computer Graphics
+# Methods And Models For Decision Making
 ## University Course
 - [x] Lab1: Binary relations
 - [x] Lab2: Solving multi-criteria optimization problems
